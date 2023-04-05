@@ -1,39 +1,30 @@
 ### Hi there 👋
 
-**yuri2078/yuri2078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--你好，这里是yuri2078
 
-Here are some ideas to get you started:
+- 🔭 目前正在地球上大学
+- 🌱 目前正在学习 Java、socket编程、Apollo
+- 💬 
+- 📫 QQ: 2078170658
+- 😄 
+- ⚡ 任何组织
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
 
 
-## Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](/home/yuri/Pictures/yuri.png)
+
+
+<h1 align="center">Hi, I'm <a>夏亦寒</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+## 会写hello-world
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Fortran-007396?style=for-the-badge&logo=fortran&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-## Data Science
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Operation Skills
 
@@ -43,9 +34,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Git-E37400?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-gcloud%20CLI-2496ED?style=for-the-badge&logo=google%20cloud&logoColor=white)
-<!--![](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)-->
-<!--![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)-->
-<!--![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)-->
+![](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=Nginx&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 ## Experienced Cloud Platform
 
