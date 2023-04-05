@@ -13,7 +13,7 @@
 
 
 
-![](/home/yuri/Pictures/yuri.png)
+![](./yuri.png)
 
 
 <h1 align="center">Hi, I'm <a>夏亦寒</a>!</h1>
