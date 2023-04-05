@@ -1,3 +1,8 @@
+
+
+<h1 align="center">Hi, I'm <a>夏亦寒</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
 ### 👋 这不得结个婚？
 
 <!--你好，这里是yuri2078
@@ -8,20 +13,19 @@
 - 📫 QQ: 2078170658
 - 😄 
 - ⚡ 任何组织
+- 插图来源 https://twitter.com/benevolels
 
 -->
 
-### 
+
 
 ![](./yuri.png)
 
 
-<h1 align="center">Hi, I'm <a>夏亦寒</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<h2 align="center">会写 hello-world</h2>
+## ⚡ 会写 hello-world
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -29,31 +33,35 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
 
-<h2 align="center">常用系统</h2>
+## ⚡ 常用系统
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/-Windows-2088FF?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 </div>
 
-<h2 align="center">常用工具</h2>
+## ⚡ 常用工具
 
-<div align="center">
+<div>
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/CLion-007ACC?style=for-the-badge&logo=clion&logoColor=white" alt="CLion"/>
     <img src="https://img.shields.io/badge/-Git-E37400?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-<h2 align="center">Github 数据</h2>
+## ⚡ Github 数据
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=yuri2078&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
 </div>
 
-<div align="center">
+<div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri2078&show_icons=true&theme=tokyonight" alt="Streak stats"/>
 </div>
 
+## ⚡ 各种资源
 
+- 背景图 [べねぼれ](https://twitter.com/benevolels)
+- [Github 数据](https://twitter.com/benevolels) 
+- [图标](https://shields.io/)
