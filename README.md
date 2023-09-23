@@ -53,11 +53,11 @@
 ## ⚡ Github 数据
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=yuri2078&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miku2078&theme=cobalt2&show_icons=true" alt="Anurag's GitHub stats"/>
 </div>
 
 <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri2078&show_icons=true&theme=tokyonight" alt="Streak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miku2078&show_icons=true&theme=tokyonight" alt="Streak stats"/>
 </div>
 
 ## ⚡ 自己写的东西
